@@ -1,0 +1,22 @@
+{
+  "name": "temperamidade",
+  "version": "1.0.0",
+  "description": "Projeto IoT com ESP32 e DHT22 - Monitor de Temperatura e Umidade",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ESP32",
+    "IoT",
+    "DHT22",
+    "Render",
+    "Temperatura",
+    "Umidade"
+  ],
+  "author": "Dupla do SENAI",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
